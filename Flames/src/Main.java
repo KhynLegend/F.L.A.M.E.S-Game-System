@@ -64,7 +64,6 @@ public class Main extends JFrame{
 				} catch (Exception e2) {
 					lblOutput.setForeground(Color.RED);
 					lblOutput.setText("Error");
-					System.out.println(e2);
 				}
 				
 				
