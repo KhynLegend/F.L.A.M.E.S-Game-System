@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextArea;
 
-public class Main extends JFrame{
+public class Flames extends JFrame{
 
 	private static final long serialVersionUID = 1L;
 
@@ -23,7 +23,7 @@ public class Main extends JFrame{
 	
 	JButton btnSubmit = new JButton("Calculate");
 	
-	public Main() {
+	public Flames() {
 		
 		setSize(new Dimension(400,400));
 		setLocationRelativeTo(null);
